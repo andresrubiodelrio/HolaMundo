@@ -7,7 +7,7 @@ package holamundo;
 
 /**
  *
- * @author arubi
+ * @author arubio
  */
 public class HolaMundo {
 
